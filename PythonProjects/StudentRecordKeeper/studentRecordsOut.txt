@@ -1,0 +1,58 @@
+UID: 111
+First: Tom
+Last: Hanks
+Level: Grad
+CLASSES: 
+CS3100
+CS3180
+CEG2170
+CEG3310
+MTH2570
+..........
+.......... 
+
+UID: 222
+First: Amanda
+Last: Clark
+Level: Undergrad
+CLASSES: 
+CEG3310
+MTH2570
+ENG2345
+..........
+.......... 
+
+UID: 333
+First: John
+Last: Thomas
+Level: Undergrad
+CLASSES: 
+CS3100
+CEG2170
+MTH2570
+..........
+.......... 
+
+UID: 444
+First: Sara
+Last: North
+Level: Grad
+CLASSES: 
+CS3180
+CEG2170
+CEG3310
+..........
+.......... 
+
+UID: 555
+First: Mark
+Last: Smith
+Level: Undergrad
+CLASSES: 
+CEG2170
+CEG3310
+MTH2570
+CS3100
+..........
+.......... 
+
